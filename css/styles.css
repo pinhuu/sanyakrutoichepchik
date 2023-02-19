@@ -1,0 +1,78 @@
+body {
+    font-family: montserrat;
+}
+
+.hero {
+    background-color: #C4C4C4;
+    padding: 15px 0;
+}
+
+.sanya_title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sanya_img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.sanya_description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+.div1 {
+    margin-top: 80px;
+
+}
+
+.about-list {
+    display: flex;
+    list-style: none;
+}
+
+.about-item {
+    width: 500px;
+    height: 75px;
+}
+
+.about-item:not(:last-child) {
+    margin-right: 90px;
+}
+
+.div2 {
+    margin-top: 100px;
+    padding-top: 15px;
+    background-color: #ebebeb;
+    padding-bottom: 30px;
+}
+
+.div3 {
+    padding-top: 20px;
+    background-color: #ebebeb;
+    padding-bottom: 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    background: #242424;
+    color: #fff;
+}
+
+.hobbie {
+    width: 700px;
+}
